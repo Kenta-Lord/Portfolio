@@ -4,6 +4,15 @@ permalink: /
 excerpt: "New Zealand Filmmaker & Director"
 ---
 
+<style>
+  /* Removes the default separator line on splash layouts */
+  .page__hero--overlay + .page__inner-wrap hr, 
+  .archive header + hr,
+  #main hr {
+    display: none !important;
+  }
+</style>
+
 # Kenta Lord
 ### Director & Filmmaker
 
@@ -19,7 +28,8 @@ Based in Christchurch, New Zealand, I am a filmmaker focused on narrative storyt
 
   <div>
     <a href="{{ site.baseurl }}/trace/">
-      <img src="{{ site.baseurl }}/ALL Posters 1.2_TRACE.png" alt="Trace Poster" style="width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+      <img src="{{ site.baseurl }}/ALL Posters 1.2_TRACE.png" alt="Trace Poster" style="width: 100%
+      ; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </a>
   </div>
 
