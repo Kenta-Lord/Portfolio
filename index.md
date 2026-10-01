@@ -5,13 +5,16 @@ excerpt: "New Zealand Filmmaker & Director"
 ---
 
 <style>
-  /* Forcefully remove top borders and pseudo-element lines from Minimal Mistakes layout */
+  /* Remove the bottom border/line from the masthead navigation */
+  .masthead {
+    border-bottom: none !important;
+    box-shadow: none !important;
+  }
   .initial-content,
   .page__inner-wrap,
   .page__content {
     border-top: none !important;
     box-shadow: none !important;
-    background-color: transparent !important;
   }
   hr {
     display: none !important;
