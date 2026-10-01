@@ -5,12 +5,15 @@ excerpt: "New Zealand Filmmaker & Director"
 ---
 
 <style>
-  /* Target and remove header borders and separator lines in Minimal Mistakes splash layout */
-  .page__inner-wrap {
+  /* Forcefully remove top borders and pseudo-element lines from Minimal Mistakes layout */
+  .initial-content,
+  .page__inner-wrap,
+  .page__content {
     border-top: none !important;
-    padding-top: 0 !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
   }
-  hr, .page__hero + .page__inner-wrap hr {
+  hr {
     display: none !important;
   }
 </style>
