@@ -4,6 +4,7 @@ permalink: /
 excerpt: "New Zealand Filmmaker & Director"
 ---
 
+# Kenta Lord
 ### Director & Filmmaker
 
 Based in Christchurch, New Zealand, I am a filmmaker focused on narrative storytelling, production design, and atmospheric cinema. My work has earned recognition across national student film awards and international festivals, including the All American High School Film Festival in New York, the Young Australian Film Festival, and NZ Web Fest.
