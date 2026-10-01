@@ -13,17 +13,26 @@ Based in Christchurch, New Zealand, I am a filmmaker focused on narrative storyt
 
 ## Featured Films
 
-### [Zippo](zippo/)
-<a href="zippo/"><img src="ALL Posters 1.2_ZIPPO.jpg" alt="Zippo Poster" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></a>
-* **Recognition:** Major national recognition in New Zealand student film awards.
-* **Role:** Production Designer / Art Director
+<div style="margin-bottom: 40px;">
+  <a href="zippo/"><img src="ALL Posters 1.2_ZIPPO.jpg" alt="Zippo Poster" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></a>
+  <h3><a href="zippo/">Zippo</a></h3>
+  <p><strong>Recognition:</strong> Major national recognition in New Zealand student film awards.<br>
+  <strong>Role:</strong> Production Designer / Art Director</p>
+  <div style="clear: both;"></div>
+</div>
 
-### [Trace](trace/)
-<a href="trace/"><img src="ALL Posters 1.2_TRACE.jpg" alt="Trace Poster" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></a>
-* **Festivals:** All American High School Film Festival (NYC), Young Australian Film Festival, Top of the South Film Festival, NZ Web Fest.
-* **Role:** Executive Producer / Production Designer
+<div style="margin-bottom: 40px;">
+  <a href="trace/"><img src="ALL Posters 1.2_TRACE.jpg" alt="Trace Poster" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></a>
+  <h3><a href="trace/">Trace</a></h3>
+  <p><strong>Festivals:</strong> All American High School Film Festival (NYC), Young Australian Film Festival, Top of the South Film Festival, NZ Web Fest.<br>
+  <strong>Role:</strong> Executive Producer / Production Designer</p>
+  <div style="clear: both;"></div>
+</div>
 
-### [The Breath of Life](breath-of-life/)
-<a href="breath-of-life/"><img src="ALL Posters 1.2_TBOL.jpg" alt="The Breath of Life Poster" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></a>
-* **Festivals:** NZ Web Fest.
-* **Role:** Director / Post-Production
+<div style="margin-bottom: 40px;">
+  <a href="breath-of-life/"><img src="ALL Posters 1.2_TBOL.jpg" alt="The Breath of Life Poster" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></a>
+  <h3><a href="breath-of-life/">The Breath of Life</a></h3>
+  <p><strong>Festivals:</strong> NZ Web Fest.<br>
+  <strong>Role:</strong> Director / Post-Production</p>
+  <div style="clear: both;"></div>
+</div>
