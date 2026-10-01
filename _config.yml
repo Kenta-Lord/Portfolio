@@ -20,3 +20,9 @@ locale: "en-NZ"
 author:
   name: "Kenta Lord"
   bio: "Filmmaker based in Christchurch, New Zealand."
+
+
+
+# Footer configuration
+footer:
+  links:
