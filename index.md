@@ -5,10 +5,12 @@ excerpt: "New Zealand Filmmaker & Director"
 ---
 
 <style>
-  /* Removes the default separator line on splash layouts */
-  .page__hero--overlay + .page__inner-wrap hr, 
-  .archive header + hr,
-  #main hr {
+  /* Target and remove header borders and separator lines in Minimal Mistakes splash layout */
+  .page__inner-wrap {
+    border-top: none !important;
+    padding-top: 0 !important;
+  }
+  hr, .page__hero + .page__inner-wrap hr {
     display: none !important;
   }
 </style>
@@ -28,8 +30,7 @@ Based in Christchurch, New Zealand, I am a filmmaker focused on narrative storyt
 
   <div>
     <a href="{{ site.baseurl }}/trace/">
-      <img src="{{ site.baseurl }}/ALL Posters 1.2_TRACE.png" alt="Trace Poster" style="width: 100%
-      ; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+      <img src="{{ site.baseurl }}/ALL Posters 1.2_TRACE.png" alt="Trace Poster" style="width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </a>
   </div>
 
