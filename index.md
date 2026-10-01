@@ -11,28 +11,24 @@ Based in Christchurch, New Zealand, I am a filmmaker focused on narrative storyt
 
 ---
 
-## Featured Films
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin-top: 30px;">
 
-<div style="margin-bottom: 40px;">
-  <a href="{{ site.baseurl }}/zippo/"><img src="{{ site.baseurl }}/ALL Posters 1.2_ZIPPO.png" alt="Zippo Poster" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></a>
-  <h3><a href="{{ site.baseurl }}/zippo/">Zippo</a></h3>
-  <p><strong>Recognition:</strong> Major national recognition in New Zealand student film awards.<br>
-  <strong>Role:</strong> Production Designer / Art Director</p>
-  <div style="clear: both;"></div>
-</div>
+  <div>
+    <a href="{{ site.baseurl }}/zippo/">
+      <img src="{{ site.baseurl }}/ALL Posters 1.2_ZIPPO.png" alt="Zippo Poster" style="width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+    </a>
+  </div>
 
-<div style="margin-bottom: 40px;">
-  <a href="{{ site.baseurl }}/trace/"><img src="{{ site.baseurl }}/ALL Posters 1.2_TRACE.png" alt="Trace Poster" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></a>
-  <h3><a href="{{ site.baseurl }}/trace/">Trace</a></h3>
-  <p><strong>Festivals:</strong> All American High School Film Festival (NYC), Young Australian Film Festival, Top of the South Film Festival, NZ Web Fest.<br>
-  <strong>Role:</strong> Executive Producer / Production Designer</p>
-  <div style="clear: both;"></div>
-</div>
+  <div>
+    <a href="{{ site.baseurl }}/trace/">
+      <img src="{{ site.baseurl }}/ALL Posters 1.2_TRACE.png" alt="Trace Poster" style="width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+    </a>
+  </div>
 
-<div style="margin-bottom: 40px;">
-  <a href="{{ site.baseurl }}/breath-of-life/"><img src="{{ site.baseurl }}/ALL Posters 1.2_TBOL.png" alt="The Breath of Life Poster" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></a>
-  <h3><a href="{{ site.baseurl }}/breath-of-life/">The Breath of Life</a></h3>
-  <p><strong>Festivals:</strong> NZ Web Fest.<br>
-  <strong>Role:</strong> Director / Post-Production</p>
-  <div style="clear: both;"></div>
+  <div>
+    <a href="{{ site.baseurl }}/breath-of-life/">
+      <img src="{{ site.baseurl }}/ALL Posters 1.2_TBOL.png" alt="The Breath of Life Poster" style="width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+    </a>
+  </div>
+
 </div>
