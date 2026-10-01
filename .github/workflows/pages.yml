@@ -36,7 +36,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.output_url }}
-    runs-on: workflow_general
     runs-on: ubuntu-latest
     needs: build
     steps:
