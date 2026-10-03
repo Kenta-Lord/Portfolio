@@ -20,6 +20,6 @@ permalink: /zippo/
 </p>
 
 <video width="100%" controls style="border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <source src="https://www.dropbox.com/scl/fi/u1uncspliylkf4f9ittlb/Trace_Kenta_Lord_WEB.mp4?rlkey=5srkozctqt3dymgcywx7q2z6e&st=jci0008l&dl=0&raw=1" type="video/mp4">
+  <source src="https://www.dropbox.com/scl/fi/9xtbkc9leojr7c21hso95/Zippo_Kenta_Lord_WEB.mp4?rlkey=r28n42gw226olv5luoqt7o9oz&st=c7d7g4mg&dl=0raw=1" type="video/mp4">
   Your browser does not support the video tag.
 </video>
