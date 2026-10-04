@@ -19,7 +19,6 @@ permalink: /trace/
   <a href="{{ site.baseurl }}/" style="text-decoration: none; color: inherit;">← Kenta Lord</a>
 </p>
 
-<video width="100%" controls style="border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <source src="https://www.dropbox.com/scl/fi/u1uncspliylkf4f9ittlb/Trace_Kenta_Lord_WEB.mp4?rlkey=5srkozctqt3dymgcywx7q2z6e&st=nvwsqcj4&dl=0&raw=1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <iframe src="https://www.youtube.com/embed/naQm-ya67MM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
